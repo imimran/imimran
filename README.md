@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**imimran/imimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Al Imran Hossain. I am a Full Stack Software Engineer.
 
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m currently learning Next.Js
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/imalimran/ https://www.facebook.com/engr.aih/
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ...
--->
