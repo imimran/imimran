@@ -3,12 +3,12 @@
 I am Al Imran Hossain. I am a Full Stack Software Engineer.
 
 Skills:
-Front-End: JavaScript, React.js, Redux, Next.js, Bootstrap, EJS, HTML5, CSS3
-Back-End: Node.js, Express.js, JWT, Rest-API, Mongoose, Sequelize, Python
-Database: MongoDB, MySQL
-Version Control: Git & GitHub
-Environment: Linux, Windows
-IDE: VS Code, Sublime Text Editor, PyCharm
+ - Front-End: JavaScript, React.js, Redux, Next.js, Bootstrap, EJS, HTML5, CSS3
+ - Back-End: Node.js, Express.js, JWT, Rest-API, Mongoose, Sequelize, Python
+ - Database: MongoDB, MySQL
+ - Version Control: Git & GitHub
+ - Environment: Linux, Windows
+ - IDE: VS Code, Sublime Text Editor, PyCharm
 
 - 🔭 I’m currently working on a cool project
 - 🌱 I’m currently learning Next.Js
