@@ -4,7 +4,7 @@ I am Al Imran Hossain. I am a Full Stack Software Engineer.
 
 - 🔭 I’m currently working on a E-commerce project
 - 🌱 I’m currently learning Next.Js
-- 🤔 I’m looking for help with Docker
+- 🤔 In three month, I will learn TypeScript, Unit Testing, WebSockt, GraphQL, Docker, CI/CD
 - 💬 Ask me about MERN Stack
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/) [Facebook](https://www.facebook.com/engr.aih/)
 - 😄 Pronouns: He/Him
@@ -13,7 +13,7 @@ I am Al Imran Hossain. I am a Full Stack Software Engineer.
 
 My Skills:
  - Front-End: JavaScript, React.js, Redux, Next.js, Bootstrap, EJS, HTML5, CSS3
- - Back-End: Node.js, Express.js, JWT, Rest-API, Mongoose, Sequelize, Python
+ - Back-End: TypeScript, Node.js, Express.js, JWT, Rest-API, Mongoose, Sequelize, Python
  - Database: MongoDB, MySQL
 
 
