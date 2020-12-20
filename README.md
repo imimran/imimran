@@ -13,9 +13,10 @@ I am Al Imran Hossain. I want to be a great Full-Stack Software Engineer.
 
 My Skills:
  - Programming Language: JavaScript, TypeScript, Python
- - Front-End: React.js, Redux, Next.js, Bootstrap, HTML5, CSS3
+ - Front-End: React.js, React-Hooks, React-Hook-Form, Redux, Next.js, Bootstrap4, HTML5, CSS3
  - Back-End: Node.js, Express.js, JWT, Rest-API, Mongoose, Sequelize
  - Database: MongoDB, MySQL
+ - Version Control: Github, BitBucket 
 
 
 
