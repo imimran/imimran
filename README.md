@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Al Imran Hossain. I want to be a Full-Stack Software Engineer. 
+### Hi there 👋 
 
 - 🔭 I’m currently working on a E-commerce project
 - 🌱 I’m currently learning Django & Django Rest Fremwork 
@@ -13,7 +11,7 @@ I am Al Imran Hossain. I want to be a Full-Stack Software Engineer.
 My Skills:
  - Programming Language: JavaScript, TypeScript, Python
  - Front-End: React.js, React-Hooks, React-Hook-Form, Redux, Next.js, Bootstrap4, HTML5, CSS3
- - Back-End: Djaango, Node.js, Express.js, Nest.Js, JWT, Rest-API, Mongoose, Sequelize, TypeORM
+ - Back-End: Django, Node.js, Express.js, Nest.Js, JWT, Rest-API, Mongoose, Sequelize, TypeORM
  - Database: MongoDB, MySQL, PostgreSQL
  - Version Control: Github, BitBucket 
 
