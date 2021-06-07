@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Django Rest Fremwork 
 - 🤔 Next Six month, I will learn Unit Testing, WebSocket, GraphQL, Docker, CI/CD
 - 💬 Ask me about Node/Express/Python 
-- 📫 How to reach me: 
--       [Linkedin](https://www.linkedin.com/in/imalimran/) 
--       [Facebook](https://www.facebook.com/engr.aih/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
 
 
 
