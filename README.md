@@ -2,19 +2,24 @@
 
 - 🔭 I’m currently working on a Django Rest API project
 - 🌱 I’m currently learning Django Rest Fremwork 
-- 🤔 Next Six month, I will learn Unit Testing, WebSocket, GraphQL, Docker, CI/CD
+- 🤔 Next Six month, I will learn Unit Testing, WebSocket, GraphQL, CI/CD
 - 💬 Ask me about Node/Express/Python 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
 
 
+Technologies I'm comfortable with:
 
-My Skills:
- - Programming Language: JavaScript, TypeScript, Python
- - Back-End: Node.js(Express.js, Nest.Js), Django, Django Rest Framework, 
- - Database: MongoDB, MySQL, PostgreSQL
- - ORM: Sequelize, Mongoose, TypeORM, Django ORM
- - Front-End: React.js, Redux, Next.js
- - Version Control: Github, BitBucket 
+Backend:
+- NodeJS, JavaScript, TypeScript, Python
+- Express, Nest, Django, Django Rest Framework
+- Sequelize, Mongoose, Django ORM, TypeORM
+- Mysql, PostgreSQL, MongoDB
+
+Frontend:
+- React, Redux, Next
+
+Version Control:
+- Git, Docker,
 
 
 
