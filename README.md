@@ -1,7 +1,6 @@
 ### Hi  👋 
 
 - 🔭 I’m currently working on a e-Store project
-- 🌱 I’m currently learning Django & React 
 - 🤔 Next Six month, I will learn WebSocket, WebRTC, GraphQL, CI/CD
 - 💬 Ask me about Node/Express/Python 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
