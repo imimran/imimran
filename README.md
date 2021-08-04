@@ -11,7 +11,7 @@ Technologies I'm comfortable with:
 
 Backend:
 - NodeJS, JavaScript, TypeScript, Python
-- Express, Django, Django Rest Framework
+- Express, Express-GraphQL, Django, Django Rest Framework
 - Sequelize, Mongoose, Django ORM
 - Mysql, PostgreSQL, MongoDB
 
