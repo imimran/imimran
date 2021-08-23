@@ -1,9 +1,7 @@
 ### Hi  👋 
-
-- 🔭 I’m currently working on a e-Store project
-- 🌱 I’m currently learning GraphQL
+- 🌱 I’m currently learning Unit Testing
 - 🤔 Next Six month, I will learn WebSocket, WebRTC, CI/CD
-- 💬 Ask me about Node/Express/Python 
+- 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
 
 
@@ -11,12 +9,12 @@ Technologies I'm comfortable with:
 
 Backend:
 - NodeJS, JavaScript, TypeScript, Python
-- Express, Express-GraphQL, Django, Django Rest Framework
+- Express, Express-GraphQL, Django Rest Framework
 - Sequelize, Mongoose, Django ORM
 - Mysql, PostgreSQL, MongoDB
 
 Frontend:
-- React, Redux, Next
+- React, Next
 
 Version Control:
 - Github & Bitbucket
