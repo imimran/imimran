@@ -1,5 +1,5 @@
 ### Hi  👋 
-- 🌱 I’m currently learning React, CSS & Unit Testing
+- 🌱 I’m currently learning React, CSS
 - 🤔 Next three month, I will learn React, Jest, WebSocket 
 - 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
