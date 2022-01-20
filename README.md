@@ -1,6 +1,6 @@
 ### Hi  👋 
-- 🌱 I’m currently learning React, CSS
-- 🤔 Next three month, I will learn React, Jest, WebSocket 
+- 🌱 I’m currently learning WebSocket
+- 🤔 Next three month, I will learn WebSocket, React, Docker
 - 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
 
@@ -8,16 +8,16 @@
 Technologies I'm comfortable with:
 
 Backend:
-- NodeJS, JavaScript, TypeScript, Python
-- Express, Express-GraphQL, Django Rest Framework
+- JavaScript, TypeScript, Python
+- NodeJS, Express, Django Rest Framework
 - Sequelize, Mongoose, Django ORM
-- Mysql, PostgreSQL, MongoDB
+- Mysql, MongoDB
 
 Frontend:
-- React, Next
+- React
 
 Version Control:
-- Github & Bitbucket
+- Git
 
 
 
