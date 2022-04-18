@@ -1,5 +1,5 @@
 ### Hi  👋 
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning MongoDB, GraphQL
 - 🤔 Next three month, I will learn WebSocket, GraphQL
 - 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
@@ -12,6 +12,7 @@ Backend:
 - NodeJS, Express, Django Rest Framework
 - Sequelize, Mongoose, Django ORM
 - MySQL, MongoDB
+- GraphQL
 
 Frontend:
 - React
