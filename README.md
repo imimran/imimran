@@ -1,5 +1,5 @@
 ### Hi  👋 
-- 🌱 I’m currently learning MongoDB, GraphQL
+- 🌱 I’m currently learning MongoDB, React
 - 🤔 Next three month, I will learn WebSocket, GraphQL
 - 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
