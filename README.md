@@ -19,7 +19,3 @@ Frontend:
 
 Version Control:
 - Git
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/imimran/count.svg)
