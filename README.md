@@ -1,6 +1,6 @@
 ### Hi  👋 
-- 🌱 I’m currently learning RabbitMQ, Kafka
-- 🤔 Next 6 months, I will learn DevOps Basic 
+- 🌱 I’m currently learning Go/Gin
+- 🤔 Next 6 months, I will learn Socket, WebRTC 
 - 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
 
@@ -8,16 +8,16 @@
 Technologies I'm comfortable with:
 
 Backend:
-- JavaScript, TypeScript, Python
-- NodeJS, Express
-- Sequelize, Mongoose, Prisma
+- JavaScript, TypeScript, Python, Go
+- NodeJS, Express, Gin
+- Sequelize, Mongoose, Prisma, GORM
 - MySQL, MongoDB, Redis
 - GraphQL, REST
 - Docker
 - Linux
 
 Frontend:
-- React
+- React, Next
 
 Version Control:
 - Git
