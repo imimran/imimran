@@ -1,5 +1,5 @@
 ### Hi  👋 
-- 🌱 I’m currently learning Go/Gin
+- 🌱 I’m currently learning RTK-Query
 - 🤔 Next 6 months, I will learn Socket, WebRTC 
 - 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
