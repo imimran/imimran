@@ -13,8 +13,9 @@ Backend:
 - Prisma, Mongoose, Sequelize 
 - MySQL, Postgres, MongoDB, Redis
 - GraphQL, REST
-- Docker, Swagger, JEST
-- Linux
+- Swagger, JEST
+- Linux, Docker, CI/CD
+- AWS(S3, EC2)
 
 Frontend:
 - React, Next
