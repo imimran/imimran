@@ -1,5 +1,5 @@
 ### Hi  👋 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Golang
 - 🤔 Next 6 months, I will learn DevOps 
 - 💬 Ask me about Node/Express 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/imalimran/)  [Facebook](https://www.facebook.com/engr.aih/)
@@ -8,7 +8,7 @@
 Technologies I'm comfortable with:
 
 Backend:
-- JavaScript, TypeScript, C#
+- JavaScript, TypeScript, Golang
 - NodeJS, Express, Nest
 - Prisma, Mongoose, Sequelize 
 - MySQL, Postgres, MongoDB, Redis
